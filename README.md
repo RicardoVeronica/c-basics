@@ -1,2 +1,2 @@
 # c-basics
-p
+practices in C language
